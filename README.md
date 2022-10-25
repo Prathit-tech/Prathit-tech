@@ -1,20 +1,23 @@
-### Hellooooo Worldddd 👋
+### Hello There👋
 
-I'm Prathit Joshi, I am a passionate self taught full stack web developer from India. I enjoy spending time in dreaming ideas and bringing them to life. I like getting every detail right and creating projects that have an elegant interface and experience.
+I'm Prathit Joshi, I am a Full Stack Web Developer, Smart Contract Engineer, UX Designer and Entrepreneur with widely ranging interests from Blockchain Technology to Embedded systems and from Complex concepts in Physics to Decentralized Finance. 
 
-I am also a tech and physics enthusiast. I write articles on medium about tech topics i realllly find interesting.
+Feel free to browse through all my repos.
+
+I write articles on medium about tech topics i realllly find interesting.
 https://medium.com/@Prathit_
 
 I am skilled in:
 1. Python
 2. C
-3. Javascript
-4. ReactJS
-5. Node and Express JS
+3. Solidity
+4. Javascript
+5. ReactJS
+6. Node and Express JS
 
-Projects I've done:
-1. SafeZen Insurance Protocol: An Insurance Project deployed on the Polygon testnet
-2. Arvento : A Messenger Protocol deployed on the Polygon Testnet
+- 🔭 I’m currently working on Credo - A Web3 Endeavour
+- 💬 Ask me about anything at my email: prathit3.14@gmail.com
+
 
 Any freelance projects, Send me an email @ prathit3.14@gmail.com
 <!--
