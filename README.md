@@ -1,6 +1,6 @@
 ### Hello There👋
 
-I'm Prathit Joshi, I am a Full Stack Web Developer, Smart Contract Engineer, UX Designer and Entrepreneur with widely ranging interests from Blockchain Technology to Embedded systems and from Complex concepts in Physics to Decentralized Finance. 
+I'm Prathit Joshi, I am a Full Stack App Developer, Smart Contract Engineer, UX Designer and Entrepreneur with widely ranging interests from Blockchain Technology to Artificial Intelligence and from Complex concepts in Physics to Decentralized Finance. 
 
 Feel free to browse through all my repos.
 
@@ -9,13 +9,14 @@ https://medium.com/@Prathit_
 
 I am skilled in:
 1. Python
-2. C
-3. Solidity
-4. Javascript
-5. ReactJS
-6. Node and Express JS
+2. Flutter and Dart
+4. C
+5. Solidity
+6. Javascript
+7. ReactJS
+8. Node and Express JS
 
-- 🔭 I’m currently working on Credo - A Web3 Endeavour
+- 👯 I’m looking to collaborate on any interesting projects
 - 💬 Ask me about anything at my email: prathit3.14@gmail.com
 
 
