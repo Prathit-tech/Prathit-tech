@@ -1,22 +1,18 @@
 ### Hello There👋
 
-I'm Prathit Joshi, I am a Full Stack App Developer, Smart Contract Engineer, UX Designer and Entrepreneur with widely ranging interests from Blockchain Technology to Artificial Intelligence and from Complex concepts in Physics to Decentralized Finance. 
+I'm Prathit Joshi, I am a 0 to 1 engineer, with widely ranging interests from Blockchain Technology to Artificial Intelligence and from Complex concepts in Physics to Decentralized Finance. 
 
 Feel free to browse through all my repos.
 
-Website: https://my-portfolio-website--prathit-p-joshi.repl.co/
-I write articles on medium about tech topics i realllly find interesting.
-https://medium.com/@Prathit_
-
 I am skilled in:
 1. Python
-2. Flutter and Dart
-4. C
-5. Solidity
-6. Javascript
-7. ReactJS
-8. Node and Express JS
-
+2. Java
+3. C/C++ 
+4. Solidity
+5. Javascript
+6. ReactJS
+7. Node and Express JS
+8. Flutter and Dart
 - 👯 I’m looking to collaborate on any interesting projects
 - 💬 Ask me about anything at my email: prathit3.14@gmail.com
 
