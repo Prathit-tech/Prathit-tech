@@ -1,6 +1,6 @@
 ### Hello There👋
 
-I'm Prathit Joshi, I am a 0 to 1 engineer, with widely ranging interests from Blockchain Technology to Artificial Intelligence and from Complex concepts in Physics to Decentralized Finance. 
+I'm Prathit Joshi, 
 
 Feel free to browse through all my repos.
 
